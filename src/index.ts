@@ -1,3 +1,4 @@
+import './logger';
 import express from "express";
 import http, { ServerResponse } from "http";
 import socketIO from "socket.io";
